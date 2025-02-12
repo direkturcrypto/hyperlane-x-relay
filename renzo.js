@@ -1,7 +1,7 @@
 const { ethers, parseEther, formatEther, AbiCoder } = require('ethers');
 
 const bridgeABI = require('./abi/renzo.json')
-const ercABI = require('./abis/erc20.json')
+const ercABI = require('./abi/erc20.json')
 
 const contractsAddr = {
     'arbitrum': {
