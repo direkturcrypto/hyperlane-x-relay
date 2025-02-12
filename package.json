@@ -1,0 +1,15 @@
+{
+  "name": "hyperlane-relay-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "direkturcrypto",
+  "license": "ISC",
+  "description": "wash trade hyperlane & relay bridge",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "ethers": "^6.13.4"
+  }
+}
